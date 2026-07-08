@@ -108,16 +108,16 @@ This project transforms raw Uber ride data into an interactive business intellig
 ## 📂 Dashboard Preview
 
 ### Overview
-![Overview](images/overview.png)
+![Overview](Overview.png)
 
 ### Vehicle Analysis
-![Vehicle](images/vehicle.png)
+![Vehicle](Vehicle.png)
 
 ### Customer Analysis
-![Customer](images/customer.png)
+![Customer](Customer.png)
 
 ### Location Analysis
-![Location](images/location.png)
+![Location](Location.png)
 
 
 
