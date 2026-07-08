@@ -119,9 +119,7 @@ This project transforms raw Uber ride data into an interactive business intellig
 ### Location Analysis
 ![Location](images/location.png)
 
-> Replace the image paths with your uploaded screenshots.
 
----
 
 ## 📁 Project Structure
 
